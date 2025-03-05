@@ -28,7 +28,7 @@ Ensure you have Python installed, then install Pygame using:
 pip install pygame
 ```
 
-###2️⃣ Clone the Repository
+### 2️⃣ Clone the Repository
 ```sh
 git clone https://github.com/yourusername/falling-circles-game.git
 cd falling-circles-game
@@ -37,7 +37,7 @@ cd falling-circles-game
 ---
 
 ## Game Mechanics 🎯
-🔴 Circles fall from the top at an increasing speed.
-🟩 The player (rectangle) moves left/right to catch the circles.
-🏆 Colliding with a circle increases the score.
-🎉 If the player reaches 10 points, they win!
+🔴 Circles fall from the top at an increasing speed.  
+🟩 The player (rectangle) moves left/right to catch the circles.  
+🏆 Colliding with a circle increases the score.  
+🎉 If the player reaches 10 points, they win!  
